@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html> 
+<body>
+
+<p>  
+My name is caleb and i am 15
+</p>
+
+<p>
+I like battlesships and coding 
+</p>
+
+<p>
+I am good at snowboarding
+</p>
+<p>
+click here to go to <a href="https://www.youtube.com/">Youtube</a>
+</p>
+<p>
+click here to go to my list <a href="lists.html">here</a>
+
+
+</body>
+</html>
