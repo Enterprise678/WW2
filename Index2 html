@@ -22,5 +22,40 @@ click here to go to <a href="https://www.youtube.com/">Youtube</a>
 click here to go to my list <a href="lists.html">here</a>
 click here to go to my family table <a href="Family.html">here</a>
 
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>Thing I like </h1>
+
+
+<div class="grid-container">
+  <div class="grid-item">Springtrap</div>
+  <div class="grid-item">U.S.S Enterprise</div>
+  <div class="grid-item">Otimus Prime</div>  
+  <div class="grid-item">Dragon City</div>
+  <div class="grid-item">Lion</div>
+  <div class="grid-item">Orcas</div>  
+  <div class="grid-item">Alamo</div>
+  <div class="grid-item">WW2 Naval History</div>
+  <div class="grid-item">Lego</div>  
+</div>
+
 </body>
 </html>
